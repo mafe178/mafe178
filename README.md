@@ -3,7 +3,9 @@
 Meu nome é Maria Fernanda ✨ 
 
 Estou estudando na [Alura](https:https://Alura.com.br)
+
 Estou me desenvolvendo na linguagem JavaSpript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo:

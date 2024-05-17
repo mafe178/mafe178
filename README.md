@@ -2,7 +2,7 @@
 
 Meu nome é Maria Fernanda ✨ 
 
-Estou estudando na Alura
+Estou estudando na [Alura](https:https://Alura.com.br)
 Estou me desenvolvendo na linguagem JavaSpript
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,6 +11,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 @mafe178😊
 
-https://media1.tenor.com/m/7Ypq9_9najcAAAAd/thumbs-up-double-thumbs-up.gif
+![-](https://media1.tenor.com/m/sFTlqk6O2qQAAAAC/sheep-excellent.gif)
 
 

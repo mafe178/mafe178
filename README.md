@@ -1,9 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
-<!--
-**mafe178/mafe178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Fernanda ✨ 
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaSpript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo:
+00001071134668sp@al.educacao.sp.gov.br
+
+@mafe178😊
+
+https://media1.tenor.com/m/7Ypq9_9najcAAAAd/thumbs-up-double-thumbs-up.gif
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
